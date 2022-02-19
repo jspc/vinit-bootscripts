@@ -8,4 +8,4 @@ group = "root"
 name = "system"
 
 [command]
-args = ["-a", "-o", "remount"]
+args = "-a -o remount"

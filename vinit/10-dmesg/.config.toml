@@ -8,4 +8,4 @@ group = "root"
 name = "system"
 
 [command]
-args = ["-n", "1"]
+args = "-n 1"

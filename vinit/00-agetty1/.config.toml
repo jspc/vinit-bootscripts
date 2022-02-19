@@ -8,4 +8,4 @@ group = "root"
 name = "system"
 
 [command]
-args = ["-L", "-8", "tty1", "115200"]
+args = "-L -8 tty1 115200"
