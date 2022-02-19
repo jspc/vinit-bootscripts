@@ -1,0 +1,11 @@
+type = "oneoff"
+
+[user]
+user = "root"
+group = "root"
+
+[grouping]
+name = "system"
+
+[command]
+args = ["-a"]
