@@ -1,0 +1,11 @@
+type = "oneoff"
+
+[user]
+user = "root"
+group = "root"
+
+[grouping]
+name = "networking"
+
+[command]
+args = ["netctl", "up", "all"]
