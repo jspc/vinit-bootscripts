@@ -1,6 +1,0 @@
-ONBOOT="no"
-IFACE="eth0"
-SERVICE="dhcpcd "
-
-DHCP_START="-b -q"
-DHCP_STOP="-k"

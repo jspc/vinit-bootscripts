@@ -1,0 +1,11 @@
+type = "service"
+
+[user]
+user = "root"
+group = "root"
+
+[grouping]
+name = "system"
+
+[command]
+args = ["-L", "-8", "tty1", "115200"]
