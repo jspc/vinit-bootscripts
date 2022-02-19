@@ -9,3 +9,5 @@ name = "system"
 
 [command]
 args = "-n 1"
+
+[oneoff]

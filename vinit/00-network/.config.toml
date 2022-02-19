@@ -9,3 +9,5 @@ name = "networking"
 
 [command]
 args = "netctl up all"
+
+[oneoff]

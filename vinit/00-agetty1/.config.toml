@@ -9,3 +9,5 @@ name = "system"
 
 [command]
 args = "-L -8 tty1 115200"
+
+[oneoff]
