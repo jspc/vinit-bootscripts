@@ -8,6 +8,6 @@ group = "root"
 name = "system"
 
 [command]
-args = "-a -o remount,rw"
+args = "/ -o remount,rw"
 
 [oneoff]
