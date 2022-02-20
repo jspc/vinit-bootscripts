@@ -9,5 +9,6 @@ name = "system"
 
 [command]
 args = "/ -o remount,rw"
+ignore_output = true
 
 [oneoff]
