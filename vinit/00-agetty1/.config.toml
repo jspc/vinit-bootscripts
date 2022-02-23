@@ -8,6 +8,6 @@ group = "root"
 name = "system"
 
 [command]
-args = "-L -8 tty1 115200"
+args = "-L -8 --autologin root 115200 tty1 linux"
 
 [oneoff]
