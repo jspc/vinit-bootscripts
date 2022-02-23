@@ -1,1 +1,1 @@
-groups = ["system", "networking"]
+groups = ["system", "networking", "user"]
