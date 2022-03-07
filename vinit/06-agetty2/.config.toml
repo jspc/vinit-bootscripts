@@ -8,6 +8,6 @@ group = "root"
 name = "system"
 
 [command]
-args = "-L -8 root 115200 tty2 linux"
+args = "-L -8 115200 tty2 linux"
 
 [oneoff]
