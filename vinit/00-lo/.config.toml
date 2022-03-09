@@ -8,6 +8,6 @@ group = "root"
 name = "networking"
 
 [command]
-args = "netctl up all"
+args = "netctl up lo"
 
 [oneoff]
