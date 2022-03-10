@@ -1,4 +1,0 @@
-type = "service"
-
-[grouping]
-name = "system"

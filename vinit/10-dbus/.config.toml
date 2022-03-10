@@ -1,7 +1,0 @@
-type = "service"
-
-[grouping]
-name = "system"
-
-[command]
-args = "--system --nofork --nosyslog"

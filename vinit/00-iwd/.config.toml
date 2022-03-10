@@ -1,6 +1,0 @@
-type = "oneoff"
-
-[grouping]
-name = "networking"
-
-[oneoff]
